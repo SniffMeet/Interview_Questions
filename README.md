@@ -1,7 +1,7 @@
 # Interview_Questions
 기술 면접을 준비하는 공간입니다. 
 
-고 : [JeaSungLEE](https://github.com/JeaSungLEE/iOSInterviewquestions), 
+참고 : [JeaSungLEE](https://github.com/JeaSungLEE/iOSInterviewquestions), 
       [inswag](https://github.com/inswag/Technical_interview_for_iOS_Dev), 
       [DopplerHQ](https://github.com/DopplerHQ/awesome-interview-questions#ios)
 
@@ -21,7 +21,7 @@
     1. 답변은 일주일(20개), 질문은 하루 단위로
     2. 1문제 당 500원 (토스 모임통장)
 
-📚 Contents
+## 📚 Contents
 1. iOS
 2. Swift
 3. Computer Science
